@@ -1,8 +1,6 @@
 /**
  * SubWord object contains the root word and the two interior
  * words that can be contained within it.
- * Example:	rootWord is "baseball"
- * 			sub words are "base" + "ball"
  * @author 25pandey
  * @version 02/01/23
  */
